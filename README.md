@@ -1,2 +1,2 @@
 # Dashboard_Streamlit
-Interactive Python data visualisation dashboard built with Streamlit/Jupyter, featuring a cleaned dataset analysis, custom charts and a project presentation.
+This repository contains the source code, data, and presentation assets for an individual data visualisation assessment.   Dashboard: An interactive Python-based dashboard built using Streamlit (or Jupyter/Ipywidgets) featuring multiple charts and interactive widgets to tell a data-driven story.   Dataset: A prepared and cleaned CSV dataset consisting of numerical, categorical, and date fields.   Presentation: A video demonstration covering the data source, dashboard walkthrough, and key insights.
